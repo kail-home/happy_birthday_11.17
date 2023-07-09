@@ -1,3 +1,2 @@
 是一种病毒。
-Can only be opened using the x64 system
-It is very good
+只能使用X64系统打开
